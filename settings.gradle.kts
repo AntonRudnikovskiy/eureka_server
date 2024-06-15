@@ -1,2 +1,1 @@
-rootProject.name = "eureka-server"
-
+rootProject.name = "Eureka-Server"
